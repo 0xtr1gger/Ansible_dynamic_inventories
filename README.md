@@ -4,7 +4,7 @@ This repository contains files used to setup a lab to practice working with dyna
 
 The description of the full setup process and everything that i did is available in my Medium, as a story:
 
-- [Mastering Ansible Inventories - Part 2: Dynamic Inventories](<link>)
+- [Mastering Ansible Inventories - Part 2: Dynamic Inventories](https://medium.com/@0xtr1gger/mastering-ansible-inventories-part-2-dynamic-inventories-e85dc48e2fda)
 
 If you don't have a Medium subscription, use my friend link that I provide at the beginning of the article to read the story for free.
 
