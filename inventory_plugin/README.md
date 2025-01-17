@@ -1,0 +1,1 @@
+Here, you can find a simple YAML configuration for a dynamic inventory that uses the `community.docker.docker_containers` plugin.  
